@@ -1,0 +1,6 @@
+{
+  "name": "IllumiBible",
+  "description": "An AI-powered, gamified Bible app for all ages with interactive quizzes, character avatars, progress tracking, and kid-friendly illustrations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
